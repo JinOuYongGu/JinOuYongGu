@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jin Ou
+- 👀 I’m interested in Minecraft
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on ...
+- 📫 My email is 691422759@qq.com
